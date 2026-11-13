@@ -1,0 +1,8 @@
+{
+  "name": "CrackRex",
+  "description": "Advanced Evasion Framework Dashboard",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
